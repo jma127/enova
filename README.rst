@@ -1,4 +1,6 @@
-enova
-=====
+Enova No Limit Code'em
+======================
 
-Requires Java and JSON (included in src). ``run.sh`` compiles and runs the client.
+Java JSON AI created to play draw poker. Requires Java and JSON (included in src).
+
+``run.sh`` compiles and runs the client.
