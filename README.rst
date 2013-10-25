@@ -1,5 +1,5 @@
-Enova No Limit Code'em
-======================
+Enova No Limit Code'em (Spring 2013)
+====================================
 
 Java JSON AI created to play draw poker. Requires Java and JSON (included in src).
 
